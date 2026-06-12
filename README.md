@@ -139,6 +139,8 @@ This problem happens because macOS applies additional security checks to apps do
 (5) I am worried about Viruses or Malware     
 To the best of my knowledge, the ZIP files included in this release do not contain any malicious software.     
 However, if you would like additional reassurance, you may:     
-- Upload the downloaded ZIP file to VirusTotal(`virustotal.com/gui/`) and scan it using multiple antivirus engines.
-- Scan the downloaded files using your device’s built-in security software (e.g. Windows Defender on Windows or Gatekeeper on macOS).
+- Upload the downloaded ZIP file to VirusTotal(`virustotal.com/gui/`) and scan it using multiple antivirus engines.    
+- Scan the downloaded files using your device’s built-in security software (e.g. Windows Defender on Windows or Gatekeeper on macOS).    
+
+As a general rule, always download files only from trusted sources and review the included files before running them.    
 
