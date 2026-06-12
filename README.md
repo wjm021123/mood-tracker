@@ -18,14 +18,14 @@ This app requires python to run. Please install python before proceeding.
 You can skip this section if Python is already installed on your device. 
 
 ### [Windows]
-(1) Download the Python installation Manager from the official website: https://www.python.org/downloads/
-    - press the Yellow "Download Python 3.xx" Button. 
-    - Follow the instruction provided by the installation manager. 
-(2) Run the installation manager. 
-(3) Follow the installation steps. 
-    - The detail of the installation process may vary depending on the device. 
-    - Make sure to check **'Add Python to PATH'**. (Answer 'y' if prompted.)
-(4) Finish installation.
+(1) Download the Python installation Manager from the official website: https://www.python.org/downloads/    
+- press the Yellow "Download Python 3.xx" Button. 
+- Follow the instruction provided by the installation manager. 
+(2) Run the installation manager.    
+(3) Follow the installation steps.    
+- The detail of the installation process may vary depending on the device. 
+- Make sure to check **'Add Python to PATH'**. (Answer 'y' if prompted.)
+(4) Finish installation.    
 
 You can verify installation by using the PowerShell/Terminal app and type the following prompt:
 ```python
@@ -69,28 +69,28 @@ Double-click `Mood Tracker.app`
 The file extension (`.app`) may be hidden depending on your system settings. 
 
 ### Closing the app
-Closing the browser without clicking the Exit App button usually does not cause problems, but for more stable operation we recommend closing the app using the Exit App button.
+Closing the browser without clicking the Exit App button usually does not cause problems, but for more stable operation we recommend closing the app using the **Exit App** button.
 If only the browser window is closed, the app may continue running in the background.
 
 ## 3. Customization (Optional)
 These steps are completely optional, but they can make the app feel more polished and easier to access.
 
 ### [Windows]
-(1) create shortcut for `Run_MoodTracker.bat`
-    - The shortcut can be place anywhere on your device.
-    - Do not move the actual files out of the folder.  
-(2) Right-click, and open **Properties**
-(3) Select **Change Icon**
-(4) Select **logo.ico** from the folder you downloaded. 
+(1) create shortcut for `Run_MoodTracker.bat`   
+- The shortcut can be place anywhere on your device.
+- Do not move the actual files out of the folder.  
+(2) Right-click, and open **Properties**    
+(3) Select **Change Icon**    
+(4) Select **logo.ico** from the folder you downloaded.     
 
 ### [macOS]
 If the app icon is missing or reset, or you want to make an Alias:
-(1) Locate `logo.png` (or another icon image)
-(2) Open the image in Preview
-(3) Press `⌘ + A`, then `⌘ + C`
-(4) Right-click `Mood Tracker.app` → **Get Info**
-(5) Click the small icon in the top-left corner
-(6) Press `⌘ + V`
+(1) Locate `logo.png` (or another icon image)   
+(2) Open the image in Preview   
+(3) Press `⌘ + A`, then `⌘ + C`    
+(4) Right-click `Mood Tracker.app` → **Get Info**    
+(5) Click the small icon in the top-left corner    
+(6) Press `⌘ + V`    
 
 Your custom icon should now appear in Finder and Launchpad.
 
@@ -104,15 +104,15 @@ In the Settings section of the app, you can customize:
 Settings are automatically stored in the `settings.json` file. 
 
 ## 4. Troubleshooting
-(1)App does not launch
+(1)App does not launch     
 Reboot the computer.
 Make sure you use the **Exit app** button before closing the browser. 
 
-(2) Weather data could not be loaded
+(2) Weather data could not be loaded    
 This may happen temporarily due to network issues or server load.
 Please try again later or use manual weather input.
 
-(3) Settings are not saved
+(3) Settings are not saved    
 Make sure the downloaded folder has write permission.
 Do not move individual files outside the Release folder.
 
