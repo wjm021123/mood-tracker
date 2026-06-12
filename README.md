@@ -119,3 +119,15 @@ Please try again later or use manual weather input.
 Make sure the downloaded folder has write permission.
 Do not move individual files outside the Release folder.
 
+(4) macOS — App cannot be opened   
+
+If macOS blocks the app because it cannot verify the developer:     
+
+(1) Right-click `Mood Tracker.app`     
+(2) Select **Open**    
+(3) Click **Open** again    
+
+Or go to:    
+
+System Settings → Privacy & Security → Open Anyway     
+
