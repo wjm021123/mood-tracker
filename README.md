@@ -68,11 +68,11 @@ Double-click `Run_MoodTracker.bat` file.
 The file extension (`.bat`) may be hidden depending on your system settings.     
 
 ### [macOS]
-Double-click `Mood Tracker.app`
-The file extension (`.app`) may be hidden depending on your system settings. 
+Double-click `Mood Tracker.app`.     
+The file extension (`.app`) may be hidden depending on your system settings.      
 
 ### Closing the app
-Closing the browser without clicking the Exit App button usually does not cause problems, but for more stable operation we recommend closing the app using the **Exit App** button.
+Closing the browser without clicking the **Exit App** button usually does not cause problems, but for more stable operation we recommend closing the app using the **Exit App** button.
 If only the browser window is closed, the app may continue running in the background.
 
 ## 3. Customization (Optional)
