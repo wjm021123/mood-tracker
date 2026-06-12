@@ -119,19 +119,19 @@ Please try again later or use manual weather input.
 Make sure the downloaded folder has write permission.
 Do not move individual files outside the Release folder.
 
-(4) macOS — App cannot be opened (initial try)    
+(4) **macOS** — App cannot be opened    
 
-If macOS blocks the app because it cannot verify the developer:      
+If macOS blocks the app because it cannot verify the developer, try one of the solutions listed below:      
 
 1. Right-click `Mood Tracker.app` → Select **Open**    
 2. Try moving the entire folder to a different location (e.g. Desktop)    
-3. GO to **System Settings** → **Privacy & Security** → scroll down until you find ""Mood Tracker" was blocked..." and press **Open Anyway**    
+3. GO to **System Settings** → **Privacy & Security** → Scroll down until you find ""Mood Tracker" was blocked..." and press **Open Anyway**    
 4. GO to Terminal, and type in `xattr -dr com.apple.quarantine /path/to/MoodTracker_macOS`    
 Example:     
-```
+```bash
 xattr -dr com.apple.quarantine ~/Desktop/MoodTracker_macOS
 ```
 Then try opening the app again.    
 
-This problem happens because macOS applies additional security checks to apps downloaded from the Internet.    
+This problem happens because macOS applies additional security checks to apps downloaded from the Internet.   
 
