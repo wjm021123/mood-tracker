@@ -19,12 +19,12 @@ You can skip this section if Python is already installed on your device.
 
 ### [Windows]
 (1) Download the Python installation Manager from the official website: https://www.python.org/downloads/    
-- press the Yellow "Download Python 3.xx" Button. 
-- Follow the instruction provided by the installation manager. 
-(2) Run the installation manager.    
-(3) Follow the installation steps.    
-- The detail of the installation process may vary depending on the device. 
-- Make sure to check **'Add Python to PATH'**. (Answer 'y' if prompted.)
+- press the Yellow "Download Python 3.xx" Button.        
+- Follow the instruction provided by the installation manager.                
+(2) Run the installation manager.      
+(3) Follow the installation steps.          
+- The detail of the installation process may vary depending on the device.         
+- Make sure to check **'Add Python to PATH'**. (Answer 'y' if prompted.)        
 (4) Finish installation.    
 
 You can verify installation by using the PowerShell/Terminal app and type the following prompt:
@@ -76,15 +76,16 @@ If only the browser window is closed, the app may continue running in the backgr
 These steps are completely optional, but they can make the app feel more polished and easier to access.
 
 ### [Windows]
-(1) create shortcut for `Run_MoodTracker.bat`   
-- The shortcut can be place anywhere on your device.
-- Do not move the actual files out of the folder.  
+(1) create shortcut for `Run_MoodTracker.bat`         
+- The shortcut can be place anywhere on your device.      
+- Do not move the actual files out of the folder.      
+
 (2) Right-click, and open **Properties**    
 (3) Select **Change Icon**    
 (4) Select **logo.ico** from the folder you downloaded.     
 
 ### [macOS]
-If the app icon is missing or reset, or you want to make an Alias:
+If the app icon is missing or reset, or you want to make an Alias:       
 (1) Locate `logo.png` (or another icon image)   
 (2) Open the image in Preview   
 (3) Press `⌘ + A`, then `⌘ + C`    
