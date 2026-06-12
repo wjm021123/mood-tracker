@@ -20,11 +20,13 @@ You can skip this section if Python is already installed on your device.
 ### [Windows]
 (1) Download the Python installation Manager from the official website: https://www.python.org/downloads/    
 - press the Yellow "Download Python 3.xx" Button.        
-- Follow the instruction provided by the installation manager.                
+- Follow the instruction provided by the installation manager.        
+
 (2) Run the installation manager.      
 (3) Follow the installation steps.          
 - The detail of the installation process may vary depending on the device.         
-- Make sure to check **'Add Python to PATH'**. (Answer 'y' if prompted.)        
+- Make sure to check **'Add Python to PATH'**. (Answer 'y' if prompted.)     
+   
 (4) Finish installation.    
 
 You can verify installation by using the PowerShell/Terminal app and type the following prompt:
