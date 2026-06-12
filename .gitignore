@@ -1,0 +1,23 @@
+# User data
+settings.json
+mood_tracker_data.csv
+
+# Streamlit
+.streamlit/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Virtual env
+venv/
+test-venv/
+
+# VSCode
+.vscode/
