@@ -63,6 +63,7 @@ Mood Tracker/
 ```
 
 ### [Windows]
+Ignore the `_MACOSX` folder. All files you need is in the `mood_tracker_windows` folder.
 Double-click `Run_MoodTracker.bat` file. 
 The file extension (`.bat`) may be hidden depending on your system settings. 
 
